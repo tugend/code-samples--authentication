@@ -1,0 +1,14 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c43432e0_002Ddef0_002D4c52_002D9911_002D0ac86b8d3662/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestControllerTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::0515C81D-A3E0-4698-9447-DC1835069C4F::.NETCoreApp,Version=v3.1::SecureWebApi.Tests.Endpoints.Sanity.TestControllerTests&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::0515C81D-A3E0-4698-9447-DC1835069C4F::.NETCoreApp,Version=v3.1::SecureWebApi.Tests.Endpoints.Users.Secret.SecretControllerTests&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;And&gt;&#xD;
+      &lt;Project Location="C:\workspace\code-samples--authentication\SecureWebApi\Tests" Presentation="&amp;lt;Tests&amp;gt;" /&gt;&#xD;
+      &lt;Namespace&gt;SecureWebApi.Tests.Endpoints.Users&lt;/Namespace&gt;&#xD;
+    &lt;/And&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	</wpf:ResourceDictionary>
